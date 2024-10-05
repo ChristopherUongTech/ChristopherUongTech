@@ -5,6 +5,10 @@ Active Directory
 * Organization Unit (OU)
 * Security Group (member): Permit/Deny/edit access to share resources such as printer, sharedrives,etc to users
 * Group Policy Object (GPO): To enforce security settings and configurations for users/computers.
+  * EXAMPLE: Auto login, unhide/hide user switching, desktop shortcut,kiosk mode etc
   * Item Level Targeting
 * Security: Use security best practices for unlock accounts, password resets,
-* Service Account 
+* Service Account for devices
+
+
+
