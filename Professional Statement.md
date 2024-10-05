@@ -1,0 +1,1 @@
+ As an aspiring IT Professional, I am committed to ongoing learning and adaptability in this ever-changing field. My enthusiasm for gaining new skills helps me stay current with technology trends and challenges. 
