@@ -10,9 +10,12 @@ Active Directory
 * Security: Use security best practices for unlock accounts, password resets,
 * Service Account: An account for a specific service for devices
 
+
 SCCM
 * Hardware and Software Inventory: Configuring and managing hardware and software inventory
-* Reporting and Analytics: Using SCCM reports to analyze inventory data and system status by using query to filter criteria 
+* Reporting and Analytics: Using SCCM reports to analyze inventory data and system status by using query to filter criteria
+* Application Management: Creating, deploying, and managing applications and software packages for end user using software center
+* Remote Desktop Access: Initiating remote control sessions to troubleshoot& support users's device remotely.
 
 
 Networking Fundamental
