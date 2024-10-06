@@ -31,6 +31,12 @@ Networking Fundamental
 Security
 * Building Access Control: Allow/Deny user to access building with card/badge using security system
 * Camera (hardware): Surveillance System to monitor building
-* Network Security: Ports, Firewall
-* Incident Management: Ability to respond to and investigate incidents  
+* Network Security: Ports, Firewall, vlan
+* Incident Management: Ability to respond to and investigate incidents
+* CIA:
+  * Confidentiality: Ensuring that information is accessible only to authorized users
+  * Integrity: Data cannot be altered or tampered with by unauthorized individuals
+  * Availability: Ensuring that information and resources are accessible to authorized anytime.
+* Multi Factor Aunthentication (MFA): Type of verification to allow user to access a system
+* Single Sign On (SSO): 
 
