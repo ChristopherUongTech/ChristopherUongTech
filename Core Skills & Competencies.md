@@ -8,7 +8,26 @@ Active Directory
   * EXAMPLE: Auto login, unhide/hide user switching, desktop shortcut,kiosk mode etc
   * Item Level Targeting
 * Security: Use security best practices for unlock accounts, password resets,
-* Service Account for devices
+* Service Account: An account for a specific service for devices
+
+SCCM
+* Hardware and Software Inventory: Configuring and managing hardware and software inventory
+* Reporting and Analytics: Using SCCM reports to analyze inventory data and system status by using query to filter criteria 
 
 
+Networking Fundamental
+* Virtual Local Area Network (VLAN)
+* Network Ports
+* Firewall rules: Source IP, Destination IP, port allow/deny,etc
+* Network Switch
+* Port Security, mac sticky
+* DHCP
+* DNS
+
+
+Security
+* Building Access Control: Allow/Deny user to access building with card/badge using security system
+* Camera (hardware): Surveillance System to monitor building
+* Network Security: Ports, Firewall
+* Incident Management: Ability to respond to and investigate incidents  
 
