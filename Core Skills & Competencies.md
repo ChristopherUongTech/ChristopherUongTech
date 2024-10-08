@@ -11,6 +11,7 @@ Active Directory
 * Security: Use security best practices for unlocking accounts, password resets and permissions to shared resources.
 * Service Account: An account for a specific service for devices
 
+![image](https://archive.org/download/sccm-icon/sccm-icon.png)
 
 SCCM
 * Hardware and Software Inventory: Configuring and managing hardware and software inventory
