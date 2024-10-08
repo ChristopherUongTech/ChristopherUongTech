@@ -1,13 +1,14 @@
 ![image](https://github.com/user-attachments/assets/bbdb31ee-0eb3-4e3c-ac71-551ad38a2a65)
 
 Active Directory
-* User Managment: Creating/modifying, user accounts
-* Organization Unit (OU)
-* Security Group (member): Permit/Deny/edit access to share resources such as printer, sharedrives,etc to users
+* User Managment: Creating/modifying user accounts
+* Device management: Adding/modifying computers/laptops for centralized management.
+* Organization Unit (OU): used to organized users, computers, objects in a domain in a logical way.
+* Security Group (member):Allow/Deny/edit access to share resources such as printer, sharedrives,etc to users
 * Group Policy Object (GPO): To enforce security settings and configurations for users/computers.
-  * EXAMPLE: Auto login, unhide/hide user switching, desktop shortcut,kiosk mode etc
+  * EXAMPLE: Auto login, unhide/hide user switching, desktop shortcut,kiosk mode best practices etc
   * Item Level Targeting
-* Security: Use security best practices for unlock accounts, password resets,
+* Security: Use security best practices for unlocking accounts, password resets and permissions to shared resources.
 * Service Account: An account for a specific service for devices
 
 
