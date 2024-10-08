@@ -19,16 +19,18 @@ SCCM
 * Application Management: Creating, deploying, and managing applications and software packages for end user using software center
 * Remote Desktop Access: Initiating remote control sessions to troubleshoot& support users's device remotely.
 
+![Image](https://static.vecteezy.com/system/resources/thumbnails/016/132/937/small/unique-network-switch-glyph-icon-vector.jpg)
 
 Networking Fundamental
 * Virtual Local Area Network (VLAN)
-* Network Ports
+* Mac Address: Unique Network Indetifier for a hardware 
+* Common Network Ports
 * Firewall rules: Source IP, Destination IP, port allow/deny,etc
-* Network Switch
+* Network Switch (Unmanaged/managed switch)
 * Port Security, mac sticky
 * DHCP
 * DNS
-* IP Address Managment (IPAM): 
+* IP Address Managment (IPAM): To Managed, track and monitoring IP address in a Network to secure devices. 
 
 
 Security
