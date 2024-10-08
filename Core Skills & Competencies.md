@@ -25,23 +25,25 @@ Networking Fundamental
 * Virtual Local Area Network (VLAN)
 * Mac Address: Unique Network Indetifier for a hardware 
 * Common Network Ports
-* Firewall rules: Source IP, Destination IP, port allow/deny,etc
-* Network Switch (Unmanaged/managed switch)
+* Firewall rules: Source IP, Destination IP, port allow/deny, Inbound/outbound traffic
+* * Network Switch (Unmanaged/managed switch)
 * Port Security, mac sticky
 * DHCP
 * DNS
 * IP Address Managment (IPAM): To Managed, track and monitoring IP address in a Network to secure devices. 
 
+![images](https://cdn-icons-png.flaticon.com/256/8522/8522214.png)
 
 Security
 * Building Access Control: Allow/Deny user to access building with card/badge using security system
 * Camera (hardware): Surveillance System to monitor building
-* Network Security: Ports, Firewall, vlan
-* Incident Management: Ability to respond to and investigate incidents
+* Network Security: Network Ports, Firewall, vlan
+* Incident Management: Ability to respond to and investigate incidents 
 * CIA:
   * Confidentiality: Ensuring that information is accessible only to authorized users
   * Integrity: Data cannot be altered or tampered with by unauthorized individuals
   * Availability: Ensuring that information and resources are accessible to authorized anytime.
 * Multi Factor Aunthentication (MFA): Type of verification to allow user to access a system
-* Single Sign On (SSO): 
+* Single Sign On (SSO): An Authentication process to allow a user to login to multiple applications/services one with a set of credential to enhanced security.
+* VPN: 
 
