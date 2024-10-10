@@ -1,12 +1,12 @@
 ### Technical Skills 
 This repository showcases my technical skills and competencies that I have acquire with self 
-study, on the job training and experience in the Information Technology field. 
+study, on the job training and professional experience in the Information Technology field. 
 
 
 
 ![image](https://github.com/user-attachments/assets/bbdb31ee-0eb3-4e3c-ac71-551ad38a2a65)
 
-Active Directory
+Active Directory (AD)
 * User Managment: Creating/modifying user accounts
 * Device management: Adding/modifying computers/laptops for centralized management.
 * Organization Unit (OU): used to organized users, computers, objects in a domain in a logical way.
@@ -32,17 +32,29 @@ Networking Fundamental
 * Mac Address: Unique Network Indetifier for a hardware 
 * Common Network Ports
 * Firewall rules: Source IP, Destination IP, port allow/deny, Inbound/outbound traffic
-* * Network Switch (Unmanaged/managed switch)
+* Network Switch (Unmanaged/managed switch)
 * Port Security, mac sticky
-* DHCP
-* DNS
-* IP Address Managment (IPAM): To Managed, track and monitoring IP address in a Network to secure devices. 
+* DHCP- Network protocol that is used to automatically assigned an IP address on a network.
+  * D- discover
+  * O - offer
+  * R - Request
+  * A - Acknowledge
+* DNS- Transnate name into IP Address
+* IP Address management (IPAM): To Managed, track and monitoring IP address in a Network to secure devices.
+* Common network coammands
+  * Ipconfig /release
+  * Ipconfig /renew
+  * Ipconfig /flushdns
+  * Ipconfig /registerdns
+  * tracert
+  * ping
+  * nslookup
 
 ![images](https://cdn-icons-png.flaticon.com/256/8522/8522214.png)
 
 Security
 * Building Access Control: Allow/Deny user to access building with card/badge using security system
-* Camera (hardware): Surveillance System to monitor building
+* Camera (hardware): Surveillance System to monitor building area
 * Network Security: Network Ports, Firewall, vlan
 * Incident Management: Ability to respond to and investigate incidents 
 * CIA:
@@ -51,5 +63,5 @@ Security
   * Availability: Ensuring that information and resources are accessible to authorized anytime.
 * Multi Factor Aunthentication (MFA): Type of verification to allow user to access a system
 * Single Sign On (SSO): An Authentication process to allow a user to login to multiple applications/services one with a set of credential to enhanced security.
-* VPN: 
+* VPN: Enabling individuals to securely connect to internal networks and computers over the Internet, utilizing encrypted tunnels to protect data from unauthorized access and to access internal shared resources such as shared drives,etc. 
 
