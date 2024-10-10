@@ -63,6 +63,38 @@ Security
   * Availability: Ensuring that information and resources are accessible to authorized anytime.
 * Multi Factor Aunthentication (MFA): Type of verification to allow user to access a system
 * Single Sign On (SSO): An Authentication process to allow a user to login to multiple applications/services one with a set of credential to enhanced security.
-* VPN: Enabling individuals to securely connect to internal networks and computers over the Internet, utilizing encrypted tunnels to protect data from unauthorized access and to access internal shared resources such as shared drives,etc. 
+* VPN: Enabling individuals to securely connect to internal networks and computers over the Internet, utilizing encrypted tunnels to protect data from unauthorized access and to access internal shared resources such as shared drives,etc.
+* PCI-DSS: a set of security standards designed to protect card information during and after a financial transaction.
+  * Network - VLAN
+  * Pin Pad
+    
+
+Windows Server
+![image](https://cdn.iconscout.com/icon/free/png-256/free-windows-logo-icon-download-in-svg-png-gif-file-formats--server-operating-system-pack-logos-icons-202433.png)
+
+Fundamental understanding of Window Server to handle, process, and manage requests from host devices/clients to provide various services
+
+Print Server
+* Managed all printer in a single location for centralize management
+* Adding/editing/removing printer
+* Adding/editing/removing printer drivers
+* Monitor and control print jobs, pausing, resuming, or canceling print jobs
+* Implement access controls with GPO to restrict printer usage based on user roles, department or request.
+*  Allow/Deny access to share printer on the network using member security group
+
+File Server
+* Allow/Deny access to share files on the network using member security group
 
 
+
+
+Office 365
+![image](https://blog.ed2go.com/wp-content/uploads/2015/04/o365-logo.jpg)
+
+ * Managing users by creating, edit users
+ * Assigning office 365 license
+ * Email:
+   * Add/remove user to distrubution lists
+   * shared mailbox access
+   * Assisting users with Outlook setup, including configuration for desktop and mobile apps
+ 
