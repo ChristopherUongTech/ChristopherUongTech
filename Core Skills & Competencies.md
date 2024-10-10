@@ -93,7 +93,7 @@ Office 365
 
  * Managing users by creating, editing users
  * Assigning office 365 license
- * Email:
+ * Exchange:
    * Add/remove user to distrubution lists
    * shared mailbox access
    * Assisting users with Outlook setup, including configuration for desktop and mobile apps
