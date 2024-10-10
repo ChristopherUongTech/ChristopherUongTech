@@ -39,7 +39,7 @@ Networking Fundamental
   * O - offer
   * R - Request
   * A - Acknowledge
-* DNS- Transnate name into IP Address
+* DNS- Transkate name into IP Address
 * IP Address management (IPAM): To Managed, track and monitoring IP address in a Network to secure devices.
 * Common network coammands
   * Ipconfig /release
