@@ -1,3 +1,9 @@
+### Technical Skills 
+This repository showcases my technical skills and competencies that I have acquire with self 
+study, on the job training and experience in the Information Technology field. 
+
+
+
 ![image](https://github.com/user-attachments/assets/bbdb31ee-0eb3-4e3c-ac71-551ad38a2a65)
 
 Active Directory
@@ -11,9 +17,9 @@ Active Directory
 * Security: Use security best practices for unlocking accounts, password resets and permissions to shared resources.
 * Service Account: An account for a specific service for devices
 
-![image](https://archive.org/download/sccm-icon/sccm-icon.png)
+![image](https://www.johndstech.com/wp-content/uploads/2016/02/SCCM2012R2_big-1.png)
 
-SCCM
+System Center Configuration Manager (SCCM)
 * Hardware and Software Inventory: Configuring and managing hardware and software inventory
 * Reporting and Analytics: Using SCCM reports to analyze inventory data and system status by using query to filter criteria
 * Application Management: Creating, deploying, and managing applications and software packages for end user using software center
