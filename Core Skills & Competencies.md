@@ -65,3 +65,4 @@ Security
 * Single Sign On (SSO): An Authentication process to allow a user to login to multiple applications/services one with a set of credential to enhanced security.
 * VPN: Enabling individuals to securely connect to internal networks and computers over the Internet, utilizing encrypted tunnels to protect data from unauthorized access and to access internal shared resources such as shared drives,etc. 
 
+
