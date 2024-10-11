@@ -99,4 +99,13 @@ Office 365
    * Assisting users with Outlook setup, including configuration for desktop and mobile apps
  * multi-factor authentication (MFA) reset
  * password reset
-* Mail Trace: used mail trace to investigate delievery of e-mail not being sent/received 
+* Mail Trace: used mail trace to investigate delievery of e-mail not being sent/received
+
+IT Documentation
+
+![image](https://cdn-icons-png.flaticon.com/256/3115/3115378.png)
+* Best practices creating/editing documents to preserve and backtrack information. 
+*  IT documentation allows for knowledge transfer among team members
+*  Provide a more details view of hardware/software/configureations,setups, etc of IT Infrastructure.
+
+  
