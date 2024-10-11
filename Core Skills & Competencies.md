@@ -89,6 +89,7 @@ File Server
 
 
 Office 365
+
 ![image](https://blog.ed2go.com/wp-content/uploads/2015/04/o365-logo.jpg)
 
  * Managing users by creating, editing users
@@ -100,6 +101,8 @@ Office 365
  * multi-factor authentication (MFA) reset
  * password reset
 * Mail Trace: used mail trace to investigate delievery of e-mail not being sent/received
+
+
 
 IT Documentation
 
